@@ -31,7 +31,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+  [![Aaron SU's GitHub stats](https://github-readme-stats.vercel.app/api?username=aaaronsu)](https://github.com/aaaronsu/github-readme-stats)
 
 
 </details>
