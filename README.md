@@ -36,4 +36,4 @@
 
 </details>
 
-[linkedin]: www.linkedin.com/in/aaaron-su
+[linkedin]: https://www.linkedin.com/in/aaaron-su/
