@@ -5,7 +5,7 @@
 - 🔭 I'm currently studying at Versailles Saint-Quentin en Yvelines University
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Learn more about backend web development and searching a summer job on the field.
+- 🥅 2023 Goals: Learn more about backend web development and get an apprenticeship in an Artificial Intelligence company.
 - ⚡ Fun fact: I love to smile (even if I have a long face on the picture)
 
 ### Connect with me: 
