@@ -1,9 +1,18 @@
 <h1 align="center">Hi 👋, I'm Aaron SU</h1>
 <h3 align="center">I'm a student, a learner, and futur researcher.</h3>
 
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aaaronsu&label=Profile%20views&color=0e75b6&style=flat" alt="aaaronsu" /> </p>
 
-- 👯 I’m looking to collaborate with **other content creators**
+
+- 🔭 I’m currently studying at **Versailles Saint-Quentin en Yvelines University.**
+
+- 🌱 I’m currently learning **everything 🤣, especially about deeplearning and machine learning.**
+
+- 👯 I’m looking to collaborate with **other content creators.**
+
+- ⚡ Fun fact **I love to smile (even if I have a long face on the picture).**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
