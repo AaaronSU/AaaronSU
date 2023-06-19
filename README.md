@@ -27,3 +27,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aaaronsu&show_icons=true&locale=en" alt="aaaronsu" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aaaronsu&" alt="aaaronsu" /></p>
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=aaaronsu&limit=3&theme=flat&combine_all_yearly_contributions=true)
+
